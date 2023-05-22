@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 我是Kolin 🌳
+## 我是任科霖 🌳
+
+
+- 💬 微信：_Kolin0701（请备注事由）
+- 🌱 博客：<a href="https://www.renkelin.top" target="_blank">Crush</a>
 
 
 ## 今年汇总 ✨
