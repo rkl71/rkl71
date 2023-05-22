@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ## 今年汇总 ✨
 
-![Anurag's GitHub stats](https://github-readme-radical.vercel.app/api?username=rkl71&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkl71&show_icons=true&theme=radical)
