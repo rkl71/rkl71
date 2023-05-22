@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 我是任科霖 🌳
 
-
+- 🦁 한양대 재학생 励志成为一个技术宅，拯救世界🌏
 - 💬 微信：_Kolin0701（请备注事由）
 - 🌱 博客：<a href="https://www.renkelin.top" target="_blank">Crush</a>
 
