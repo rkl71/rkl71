@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 我是任科霖 🌳
+## Hi,👋I'm Kelin-Ren!🌳
 
 - 🦁 한양대 재학생 励志成为一个技术宅，拯救世界🌏
 - 💬 微信：_Kolin0701（请备注事由）
 - 🌱 博客：<a href="https://rkl71.github.io" target="_blank">Crush</a>
 
 
-## 今年汇总 ✨
+## Year's summary ✨
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=rkl71&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkl71&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
