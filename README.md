@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## Hi,👋I'm Kelin-Ren!🌳
 
 - 🦁 한양대 재학생 励志成为一个技术宅，拯救世界🌏
-- 💬 微信：_Kolin0701（请备注事由）
-- 🌱 博客：<a href="https://rkl71.github.io" target="_blank">Crush</a>
+- 💬 Wechat：_Kolin0701（请备注事由）
+- 🌱 Blog：<a href="https://rkl71.github.io" target="_blank">Crush</a>
 
 
 ## Year's summary ✨
