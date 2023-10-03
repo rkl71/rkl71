@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi,👋I'm Kelin-Ren!🌳
 
-- 🦁 한양대 재학생 励志成为一个技术宅，拯救世界🌏
+- 🦁 <a href= https://www.hanyang.ac.kr/ target="_blank">Hanyang Unviersity</a> 励志成为一个技术宅，拯救世界🌏
 - 💬 Wechat：_Kolin0701（请备注事由）
 - 🌱 Blog：<a href="https://rkl71.github.io" target="_blank">Kolin's space</a>
 - 🧑‍💻 Languages and Tools:
